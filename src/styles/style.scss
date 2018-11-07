@@ -1,0 +1,7 @@
+$primary : blue;
+.title{
+    text-align: center;
+    &__hello{
+        color: $primary;
+    }
+}
